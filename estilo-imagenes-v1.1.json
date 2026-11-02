@@ -1,0 +1,441 @@
+{
+  "project": {
+    "name": "La Esencia del Conocimiento - Cosmic Fantasy Image Style",
+    "purpose": "Reusable creative direction for generating a coherent series of high-detail mystical, cosmic and epic-fantasy images with interchangeable characters, creatures and environments.",
+    "language": "es",
+    "version": "1.1",
+    "changes_in_1_1": [
+      "brand hex colors",
+      "text safe zone for social posts",
+      "9:16 story/reel preset",
+      "symbolism map linking scenes to the Fase A lectures",
+      "new scene presets for the launch lectures 01-06",
+      "daily production plan for 2 images per day"
+    ]
+  },
+  "master_style": {
+    "visual_identity": [
+      "high-detail cinematic fantasy digital painting",
+      "luminous cosmic mysticism",
+      "grand, atmospheric, emotionally powerful compositions",
+      "intricate fine detail, radiant particles, layered light and depth",
+      "polished, richly rendered, premium fantasy illustration"
+    ],
+    "color_palette": {
+      "core": [
+        "deep violet",
+        "electric purple",
+        "indigo",
+        "sapphire blue",
+        "magenta",
+        "luminous white"
+      ],
+      "accents": [
+        "molten gold",
+        "bright amber",
+        "orange fire",
+        "iridescent rainbow light"
+      ],
+      "contrast": "deep cosmic shadows balanced by brilliant luminous focal points",
+      "brand_hex": {
+        "backgrounds": [
+          "#120226",
+          "#090B54",
+          "#1A1B8E"
+        ],
+        "main": [
+          "#8526E6",
+          "#5312A5",
+          "#2F2FBE",
+          "#5C5CF8"
+        ],
+        "secondary": [
+          "#C56AEA",
+          "#BD8BEA",
+          "#F2CDE6"
+        ],
+        "gold": [
+          "#FDF37D",
+          "#FADD4B",
+          "#F0B71D"
+        ],
+        "rule": "About 70% dark cosmic backgrounds, 20% violets and blues, 10% gold light. Orange-red fire only as an accent, except in ego-battle scenes."
+      }
+    },
+    "lighting": [
+      "intense radiant glow around important figures",
+      "volumetric beams and subtle bloom",
+      "glowing edges and energy trails",
+      "starbursts, sparks and floating particles",
+      "strong separation between foreground subjects and cosmic background"
+    ],
+    "environment_and_motifs": [
+      "deep starfields and spiral galaxies",
+      "violet and blue nebula clouds",
+      "sacred geometry, mandala-like halos and concentric energy rings",
+      "celestial portals and luminous arcs",
+      "reflective water with gentle ripples when appropriate",
+      "ornamental energy patterns and subtle mystical symbols"
+    ],
+    "rendering": {
+      "detail_level": "very high",
+      "finish": "cinematic, crisp, intricate, luminous",
+      "anatomy": "coherent human and creature anatomy; clear silhouettes and readable hands, wings and weapons",
+      "depth": "layered foreground, middle ground and background",
+      "avoid": [
+        "flat cartoon styling",
+        "muddy low-contrast lighting",
+        "plastic-looking surfaces",
+        "visual clutter that hides the main subjects"
+      ]
+    }
+  },
+  "recurring_character_design": {
+    "cosmic_meditative_being": {
+      "appearance": "androgynous human-like energy figure, formed from translucent violet-magenta light, with a clearly readable seated lotus pose when requested",
+      "signature_features": [
+        "radiant star or geometric light at the forehead / third-eye area",
+        "luminous white or silver emblem at the center of the chest",
+        "fine glowing energy lines across the body",
+        "violet-pink aura"
+      ],
+      "pose": "front-facing unless the scene specifies otherwise"
+    },
+    "silver_chest_angel": {
+      "appearance": "small, brilliant silver-white winged angel emblem, delicate and clearly visible against the chest",
+      "optional_prop": "ornate wizard staff held only in the angel's right hand",
+      "scale_and_light": "smaller than the chest area; intensely bright, with a clean silver-white glow"
+    },
+    "celestial_mother_figure": {
+      "appearance": "serene, large, softly translucent winged feminine celestial figure, inspired by classical Marian iconography without requiring an exact religious portrait",
+      "features": [
+        "broad aurora-like wings in blue, violet and turquoise",
+        "luminous crown or halo",
+        "flowing robes that blend into the nebula",
+        "purple staff topped with a controlled flame or radiant crystal"
+      ],
+      "visibility": "large in the background, moderately translucent and partially fused with the cosmic environment while remaining recognizable"
+    },
+    "epic_warrior": {
+      "appearance": "heroic fantasy warrior with ornate silver-violet armor, luminous accents, flowing cape and a calm but determined expression",
+      "weapons": "flaming sword, clearly held in one hand; ornate but readable silhouette",
+      "optional_features": [
+        "radiant chest emblem",
+        "halo-like backlight",
+        "fire wings"
+      ]
+    },
+    "phoenix": {
+      "appearance": "majestic enormous phoenix with expansive feathered wings made of gold, orange, magenta and violet fire",
+      "role": "guardian, rebirth symbol or dramatic background presence"
+    },
+    "demonic_dragon": {
+      "appearance": "colossal fantasy dragon with dark obsidian scales, horns, powerful wings and glowing ember-like eyes",
+      "palette": "black, crimson, molten orange and deep violet",
+      "tone": "menacing and supernatural, not graphic or gory"
+    }
+  },
+  "composition_presets": {
+    "square_social_post": {
+      "aspect_ratio": "1:1",
+      "recommended_pixels": "2048x2048",
+      "composition": "centered, balanced, visually legible on a phone screen; keep the main subject inside a comfortable central safe area",
+      "text": "none",
+      "text_safe_zone": "Keep the lower 35% of the frame darker and calmer (water, mist, soft nebula or dark reflection) with no faces, hands, weapons or key details there, so a caption can be overlaid. Main subject in the upper 65%."
+    },
+    "facebook_cover": {
+      "aspect_ratio": "approximately 2.63:1",
+      "recommended_pixels": "1640x624",
+      "composition": "wide panoramic framing; distribute multiple subjects horizontally; keep essential details away from extreme edges and allow safe space for platform cropping",
+      "text": "none unless explicitly requested"
+    },
+    "portrait_post": {
+      "aspect_ratio": "4:5",
+      "recommended_pixels": "2048x2560",
+      "composition": "vertical editorial framing with a clear focal subject and enough breathing room",
+      "text": "none",
+      "text_safe_zone": "Keep the lower 35% of the frame darker and calmer (water, mist, soft nebula or dark reflection) with no faces, hands, weapons or key details there, so a caption can be overlaid. Main subject in the upper 65%."
+    },
+    "story_reel_vertical": {
+      "aspect_ratio": "9:16",
+      "recommended_pixels": "1440x2560",
+      "composition": "vertical, main subject centered between 20% and 60% of the height; keep the top 12% and bottom 25% calm and free of key details for platform UI and captions",
+      "text": "none"
+    }
+  },
+  "scene_presets": {
+    "seven_emanations_and_celestial_staff": {
+      "description": "Seven matching cosmic meditation beings arranged in one straight horizontal row, front-facing and levitating above calm, gently rippling water that softly reflects them.",
+      "must_include": [
+        "exactly seven similar energy bodies",
+        "all seven in a frontal view and aligned in one row",
+        "each holding a small-to-large flaming sword in the right hand",
+        "the first sword is very short, almost a hilt or small flame blade",
+        "each following sword increases progressively in blade length",
+        "the seventh sword has a blade approximately as long as that figure's torso",
+        "a large, moderately translucent winged celestial mother in the background",
+        "the celestial mother holds a purple flaming staff",
+        "one thin multicolored thread connects each individual figure directly to the staff itself",
+        "the seven figures levitate above tranquil reflective water"
+      ],
+      "connection_rule": "Draw seven distinct, continuous, fine rainbow-colored filaments. Each filament must visibly begin at the purple staff or its glowing tip and terminate at the corresponding figure. Do not connect the figures to one another instead of to the staff.",
+      "sword_progression": "Arrange sword lengths in a clear monotonic progression from figure 1 to figure 7, with no skipped or reversed sizes."
+    },
+    "warrior_and_phoenix": {
+      "description": "A single heroic warrior stands in a cosmic environment with a colossal phoenix unfolding behind him.",
+      "must_include": [
+        "one clearly visible warrior as the foreground focal point",
+        "a flaming sword held visibly in the warrior's hand",
+        "a huge phoenix with expansive fiery wings behind the warrior",
+        "violet, sapphire and magenta galaxies with gold-orange fire",
+        "glowing energy rings and reflective water when they support the composition"
+      ]
+    },
+    "apocalyptic_warrior_and_dragon": {
+      "description": "A dramatic apocalyptic confrontation between a fire-winged warrior and a demonic dragon.",
+      "must_include": [
+        "one heroic warrior with large wings made of golden-orange fire",
+        "the warrior carries a bright flaming sword",
+        "a colossal demonic fantasy dragon faces the warrior",
+        "a dramatic clash or imminent confrontation, with both silhouettes clearly readable",
+        "apocalyptic sky with violet, crimson and fiery orange clouds",
+        "lightning, sparks, embers and a ruined gothic city or burning landscape",
+        "epic cinematic scale and strong contrast"
+      ],
+      "tone": "intense, mythic and dramatic, without gore or graphic injury"
+    },
+    "inner_mirror": {
+      "description": "The cosmic meditative being sits before a large circular mirror of light floating over reflective water; in the mirror its reflection appears as several slightly different versions of itself (calm, angry, proud, fearful), each as a faint translucent silhouette.",
+      "lecture": "01, 15, 16",
+      "must_include": [
+        "one seated meditative being, front or three-quarter view",
+        "a luminous circular mirror",
+        "4 to 6 faint differing reflections inside the mirror",
+        "dark calm water in the lower third"
+      ]
+    },
+    "seed_and_light": {
+      "description": "A glowing seed cracks open in dark cosmic soil and a young plant of golden light rises toward a nebula; above it, the faint silhouette of the meditative being dissolves like smoke while a brighter one emerges.",
+      "lecture": "02, 08, 32",
+      "must_include": [
+        "a cracked luminous seed",
+        "a rising sprout of golden light",
+        "old silhouette dissolving, new brighter silhouette emerging",
+        "dark lower third"
+      ]
+    },
+    "astral_projection": {
+      "description": "A person sleeps peacefully on a simple bed under a starry window while a translucent violet copy of the same person rises above the body, linked by a thin silver cord, floating toward a portal of light.",
+      "lecture": "03, 37, 48",
+      "must_include": [
+        "sleeping physical body",
+        "translucent rising double",
+        "thin silver cord connecting both",
+        "calm, non-frightening tone",
+        "dark lower third"
+      ]
+    },
+    "seven_centers": {
+      "description": "The cosmic meditative being in lotus pose with seven glowing centers along the body, each a small sphere of different light intensity, connected by a golden vertical line, inside concentric sacred-geometry rings.",
+      "lecture": "04, 21",
+      "must_include": [
+        "exactly seven glowing centers",
+        "golden vertical line through the spine",
+        "front view",
+        "dark lower third"
+      ]
+    },
+    "dimensions_stairway": {
+      "description": "A luminous spiral stairway of seven levels rises from dark water into increasingly brighter nebulae; each level a translucent platform with a different hue from indigo to white-gold; a small meditative figure stands on the first step looking up.",
+      "lecture": "05-06, 24",
+      "must_include": [
+        "seven distinct levels",
+        "color progression from dark indigo to white-gold",
+        "small figure on the first step",
+        "dark lower third"
+      ]
+    },
+    "inner_pendulum": {
+      "description": "A giant golden pendulum swings across a cosmic sky, leaving a trail between a stormy red side and a bright blue side, while the meditative being sits perfectly still at the center point beneath it.",
+      "lecture": "29, 19",
+      "must_include": [
+        "golden pendulum with motion trail",
+        "contrast of two opposite emotional sides",
+        "still meditative being at the center",
+        "dark lower third"
+      ]
+    }
+  },
+  "variation_controls": {
+    "changeable_fields": [
+      "main_character",
+      "supporting_character_or_creature",
+      "environment",
+      "action_or_pose",
+      "weapon_or_magical_object",
+      "energy_effects",
+      "lighting_emphasis",
+      "aspect_ratio",
+      "camera_angle"
+    ],
+    "consistency_rule": "When the user asks for a new character or setting, vary only the requested elements. Preserve the master style, color identity, luminous rendering and high-detail cosmic-fantasy atmosphere unless explicitly asked to change them.",
+    "camera_defaults": {
+      "character_portrait": "frontal or three-quarter view, full figure when practical",
+      "group_scene": "frontal wide view with all subjects visible",
+      "battle_scene": "dynamic three-quarter view with clear separation between combatants"
+    }
+  },
+  "text_policy": {
+    "default": "Do not include any text, lettering, captions, logos, signatures, watermarks or typographic elements in generated images.",
+    "exception": "Only add exact wording when the user explicitly requests text.",
+    "spelling": "If text is requested, reproduce the supplied wording exactly and keep it legible."
+  },
+  "quality_and_exclusion_rules": [
+    "Respect the requested number of characters exactly.",
+    "Keep requested right-hand / left-hand placement accurate.",
+    "Make every requested connection, staff, sword, wing or emblem visibly readable.",
+    "Do not let decorative effects obscure faces, hands, weapons or important silhouettes.",
+    "Avoid extra limbs, duplicated figures, fused bodies, malformed hands, broken weapons and accidental extra characters.",
+    "Do not add text when the request says image-only.",
+    "For platform formats, compose for the requested aspect ratio rather than merely cropping a square image."
+  ],
+  "prompt_assembly_template": {
+    "instruction": "Use this object to assemble a natural-language image prompt. Replace bracketed values with the user's requested details.",
+    "template": "Create a [ASPECT_RATIO] [SCENE_DESCRIPTION] in the established La Esencia del Conocimiento visual style: highly detailed cinematic cosmic fantasy, deep violet and sapphire nebulae, electric purple and magenta energy, luminous gold and white highlights, intricate sacred geometry, radiant particles, volumetric light and layered depth. Main subject: [MAIN_CHARACTER]. Supporting subjects: [SUPPORTING_SUBJECTS]. Environment: [ENVIRONMENT]. Action and pose: [ACTION_AND_POSE]. Required objects and exact relationships: [REQUIRED_OBJECTS_AND_RELATIONSHIPS]. Camera: [CAMERA]. Keep all important elements clearly visible and anatomically coherent. Keep the lower 35% of the frame darker and calm, with no key details there, for caption overlay. No text, letters, logos, signatures or watermark."
+  },
+  "example_requests": [
+    {
+      "name": "Seven figures linked to the staff",
+      "aspect_ratio": "2.63:1",
+      "scene_preset": "seven_emanations_and_celestial_staff",
+      "text": "none"
+    },
+    {
+      "name": "Warrior and phoenix",
+      "aspect_ratio": "1:1",
+      "scene_preset": "warrior_and_phoenix",
+      "text": "none"
+    },
+    {
+      "name": "Apocalyptic fire-winged warrior versus dragon",
+      "aspect_ratio": "1:1",
+      "scene_preset": "apocalyptic_warrior_and_dragon",
+      "text": "none"
+    },
+    {
+      "name": "Inner mirror for lecture 01",
+      "aspect_ratio": "1:1",
+      "scene_preset": "inner_mirror",
+      "text": "none"
+    }
+  ],
+  "symbolism_map": {
+    "seven_emanations_and_celestial_staff": {
+      "meaning": "the seven bodies and the guidance of the Divine Mother",
+      "lectures": [
+        "10 (veiled, general language only)",
+        "17",
+        "27"
+      ]
+    },
+    "warrior_and_phoenix": {
+      "meaning": "psychological death and rebirth",
+      "lectures": [
+        "02",
+        "08",
+        "17",
+        "32"
+      ]
+    },
+    "apocalyptic_warrior_and_dragon": {
+      "meaning": "the battle against the ego and the inner infernos",
+      "lectures": [
+        "09",
+        "15",
+        "27",
+        "38"
+      ],
+      "usage": "occasional; it breaks the violet calm on purpose"
+    },
+    "inner_mirror": {
+      "meaning": "self-observation and the many selves",
+      "lectures": [
+        "01",
+        "15",
+        "16"
+      ]
+    },
+    "seed_and_light": {
+      "meaning": "what must die so something new can be born",
+      "lectures": [
+        "02",
+        "08",
+        "32"
+      ]
+    },
+    "astral_projection": {
+      "meaning": "conscious out-of-body practice",
+      "lectures": [
+        "03",
+        "37",
+        "48"
+      ]
+    },
+    "seven_centers": {
+      "meaning": "the human machine and its energy",
+      "lectures": [
+        "04",
+        "21"
+      ]
+    },
+    "dimensions_stairway": {
+      "meaning": "dimensions as levels of consciousness",
+      "lectures": [
+        "05-06",
+        "24"
+      ]
+    },
+    "inner_pendulum": {
+      "meaning": "the law of the pendulum and inner states",
+      "lectures": [
+        "29",
+        "19"
+      ]
+    }
+  },
+  "daily_production_plan": {
+    "images_per_day": 2,
+    "launch_order": [
+      {
+        "day": 1,
+        "images": [
+          "inner_mirror 1:1",
+          "seed_and_light 1:1"
+        ]
+      },
+      {
+        "day": 2,
+        "images": [
+          "astral_projection 1:1",
+          "seven_centers 1:1"
+        ]
+      },
+      {
+        "day": 3,
+        "images": [
+          "dimensions_stairway 1:1",
+          "inner_mirror 9:16"
+        ]
+      },
+      {
+        "day": 4,
+        "images": [
+          "warrior_and_phoenix 9:16",
+          "seed_and_light 9:16"
+        ]
+      }
+    ],
+    "after_launch": "Each week, generate the scenes mapped to that week's two lectures, one 1:1 and one 9:16.",
+    "labeling": "These images are AI-generated; mark them as AI content when publishing on Instagram."
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "project": {
+    "name": "La Esencia del Conocimiento - Cosmic Fantasy Image Style",
+    "purpose": "Reusable creative direction for generating a coherent series of high-detail mystical, cosmic and epic-fantasy images with interchangeable characters, creatures and environments.",
+    "language": "es",
+    "version": "1.0"
+  },
+  "master_style": {
+    "visual_identity": [
+      "high-detail cinematic fantasy digital painting",
+      "luminous cosmic mysticism",
+      "grand, atmospheric, emotionally powerful compositions",
+      "intricate fine detail, radiant particles, layered light and depth",
+      "polished, richly rendered, premium fantasy illustration"
+    ],
+    "color_palette": {
+      "core": [
+        "deep violet",
+        "electric purple",
+        "indigo",
+        "sapphire blue",
+        "magenta",
+        "luminous white"
+      ],
+      "accents": [
+        "molten gold",
+        "bright amber",
+        "orange fire",
+        "iridescent rainbow light"
+      ],
+      "contrast": "deep cosmic shadows balanced by brilliant luminous focal points"
+    },
+    "lighting": [
+      "intense radiant glow around important figures",
+      "volumetric beams and subtle bloom",
+      "glowing edges and energy trails",
+      "starbursts, sparks and floating particles",
+      "strong separation between foreground subjects and cosmic background"
+    ],
+    "environment_and_motifs": [
+      "deep starfields and spiral galaxies",
+      "violet and blue nebula clouds",
+      "sacred geometry, mandala-like halos and concentric energy rings",
+      "celestial portals and luminous arcs",
+      "reflective water with gentle ripples when appropriate",
+      "ornamental energy patterns and subtle mystical symbols"
+    ],
+    "rendering": {
+      "detail_level": "very high",
+      "finish": "cinematic, crisp, intricate, luminous",
+      "anatomy": "coherent human and creature anatomy; clear silhouettes and readable hands, wings and weapons",
+      "depth": "layered foreground, middle ground and background",
+      "avoid": [
+        "flat cartoon styling",
+        "muddy low-contrast lighting",
+        "plastic-looking surfaces",
+        "visual clutter that hides the main subjects"
+      ]
+    }
+  },
+  "recurring_character_design": {
+    "cosmic_meditative_being": {
+      "appearance": "androgynous human-like energy figure, formed from translucent violet-magenta light, with a clearly readable seated lotus pose when requested",
+      "signature_features": [
+        "radiant star or geometric light at the forehead / third-eye area",
+        "luminous white or silver emblem at the center of the chest",
+        "fine glowing energy lines across the body",
+        "violet-pink aura"
+      ],
+      "pose": "front-facing unless the scene specifies otherwise"
+    },
+    "silver_chest_angel": {
+      "appearance": "small, brilliant silver-white winged angel emblem, delicate and clearly visible against the chest",
+      "optional_prop": "ornate wizard staff held only in the angel's right hand",
+      "scale_and_light": "smaller than the chest area; intensely bright, with a clean silver-white glow"
+    },
+    "celestial_mother_figure": {
+      "appearance": "serene, large, softly translucent winged feminine celestial figure, inspired by classical Marian iconography without requiring an exact religious portrait",
+      "features": [
+        "broad aurora-like wings in blue, violet and turquoise",
+        "luminous crown or halo",
+        "flowing robes that blend into the nebula",
+        "purple staff topped with a controlled flame or radiant crystal"
+      ],
+      "visibility": "large in the background, moderately translucent and partially fused with the cosmic environment while remaining recognizable"
+    },
+    "epic_warrior": {
+      "appearance": "heroic fantasy warrior with ornate silver-violet armor, luminous accents, flowing cape and a calm but determined expression",
+      "weapons": "flaming sword, clearly held in one hand; ornate but readable silhouette",
+      "optional_features": [
+        "radiant chest emblem",
+        "halo-like backlight",
+        "fire wings"
+      ]
+    },
+    "phoenix": {
+      "appearance": "majestic enormous phoenix with expansive feathered wings made of gold, orange, magenta and violet fire",
+      "role": "guardian, rebirth symbol or dramatic background presence"
+    },
+    "demonic_dragon": {
+      "appearance": "colossal fantasy dragon with dark obsidian scales, horns, powerful wings and glowing ember-like eyes",
+      "palette": "black, crimson, molten orange and deep violet",
+      "tone": "menacing and supernatural, not graphic or gory"
+    }
+  },
+  "composition_presets": {
+    "square_social_post": {
+      "aspect_ratio": "1:1",
+      "recommended_pixels": "2048x2048",
+      "composition": "centered, balanced, visually legible on a phone screen; keep the main subject inside a comfortable central safe area",
+      "text": "none by default"
+    },
+    "facebook_cover": {
+      "aspect_ratio": "approximately 2.63:1",
+      "recommended_pixels": "1640x624",
+      "composition": "wide panoramic framing; distribute multiple subjects horizontally; keep essential details away from extreme edges and allow safe space for platform cropping",
+      "text": "none unless explicitly requested"
+    },
+    "portrait_post": {
+      "aspect_ratio": "4:5",
+      "recommended_pixels": "2048x2560",
+      "composition": "vertical editorial framing with a clear focal subject and enough breathing room",
+      "text": "none by default"
+    }
+  },
+  "scene_presets": {
+    "seven_emanations_and_celestial_staff": {
+      "description": "Seven matching cosmic meditation beings arranged in one straight horizontal row, front-facing and levitating above calm, gently rippling water that softly reflects them.",
+      "must_include": [
+        "exactly seven similar energy bodies",
+        "all seven in a frontal view and aligned in one row",
+        "each holding a small-to-large flaming sword in the right hand",
+        "the first sword is very short, almost a hilt or small flame blade",
+        "each following sword increases progressively in blade length",
+        "the seventh sword has a blade approximately as long as that figure's torso",
+        "a large, moderately translucent winged celestial mother in the background",
+        "the celestial mother holds a purple flaming staff",
+        "one thin multicolored thread connects each individual figure directly to the staff itself",
+        "the seven figures levitate above tranquil reflective water"
+      ],
+      "connection_rule": "Draw seven distinct, continuous, fine rainbow-colored filaments. Each filament must visibly begin at the purple staff or its glowing tip and terminate at the corresponding figure. Do not connect the figures to one another instead of to the staff.",
+      "sword_progression": "Arrange sword lengths in a clear monotonic progression from figure 1 to figure 7, with no skipped or reversed sizes."
+    },
+    "warrior_and_phoenix": {
+      "description": "A single heroic warrior stands in a cosmic environment with a colossal phoenix unfolding behind him.",
+      "must_include": [
+        "one clearly visible warrior as the foreground focal point",
+        "a flaming sword held visibly in the warrior's hand",
+        "a huge phoenix with expansive fiery wings behind the warrior",
+        "violet, sapphire and magenta galaxies with gold-orange fire",
+        "glowing energy rings and reflective water when they support the composition"
+      ]
+    },
+    "apocalyptic_warrior_and_dragon": {
+      "description": "A dramatic apocalyptic confrontation between a fire-winged warrior and a demonic dragon.",
+      "must_include": [
+        "one heroic warrior with large wings made of golden-orange fire",
+        "the warrior carries a bright flaming sword",
+        "a colossal demonic fantasy dragon faces the warrior",
+        "a dramatic clash or imminent confrontation, with both silhouettes clearly readable",
+        "apocalyptic sky with violet, crimson and fiery orange clouds",
+        "lightning, sparks, embers and a ruined gothic city or burning landscape",
+        "epic cinematic scale and strong contrast"
+      ],
+      "tone": "intense, mythic and dramatic, without gore or graphic injury"
+    }
+  },
+  "variation_controls": {
+    "changeable_fields": [
+      "main_character",
+      "supporting_character_or_creature",
+      "environment",
+      "action_or_pose",
+      "weapon_or_magical_object",
+      "energy_effects",
+      "lighting_emphasis",
+      "aspect_ratio",
+      "camera_angle"
+    ],
+    "consistency_rule": "When the user asks for a new character or setting, vary only the requested elements. Preserve the master style, color identity, luminous rendering and high-detail cosmic-fantasy atmosphere unless explicitly asked to change them.",
+    "camera_defaults": {
+      "character_portrait": "frontal or three-quarter view, full figure when practical",
+      "group_scene": "frontal wide view with all subjects visible",
+      "battle_scene": "dynamic three-quarter view with clear separation between combatants"
+    }
+  },
+  "text_policy": {
+    "default": "Do not include any text, lettering, captions, logos, signatures, watermarks or typographic elements in generated images.",
+    "exception": "Only add exact wording when the user explicitly requests text.",
+    "spelling": "If text is requested, reproduce the supplied wording exactly and keep it legible."
+  },
+  "quality_and_exclusion_rules": [
+    "Respect the requested number of characters exactly.",
+    "Keep requested right-hand / left-hand placement accurate.",
+    "Make every requested connection, staff, sword, wing or emblem visibly readable.",
+    "Do not let decorative effects obscure faces, hands, weapons or important silhouettes.",
+    "Avoid extra limbs, duplicated figures, fused bodies, malformed hands, broken weapons and accidental extra characters.",
+    "Do not add text when the request says image-only.",
+    "For platform formats, compose for the requested aspect ratio rather than merely cropping a square image."
+  ],
+  "prompt_assembly_template": {
+    "instruction": "Use this object to assemble a natural-language image prompt. Replace bracketed values with the user's requested details.",
+    "template": "Create a [ASPECT_RATIO] [SCENE_DESCRIPTION] in the established La Esencia del Conocimiento visual style: highly detailed cinematic cosmic fantasy, deep violet and sapphire nebulae, electric purple and magenta energy, luminous gold and white highlights, intricate sacred geometry, radiant particles, volumetric light and layered depth. Main subject: [MAIN_CHARACTER]. Supporting subjects: [SUPPORTING_SUBJECTS]. Environment: [ENVIRONMENT]. Action and pose: [ACTION_AND_POSE]. Required objects and exact relationships: [REQUIRED_OBJECTS_AND_RELATIONSHIPS]. Camera: [CAMERA]. Keep all important elements clearly visible and anatomically coherent. No text, letters, logos, signatures or watermark."
+  },
+  "example_requests": [
+    {
+      "name": "Seven figures linked to the staff",
+      "aspect_ratio": "2.63:1",
+      "scene_preset": "seven_emanations_and_celestial_staff",
+      "text": "none"
+    },
+    {
+      "name": "Warrior and phoenix",
+      "aspect_ratio": "1:1",
+      "scene_preset": "warrior_and_phoenix",
+      "text": "none"
+    },
+    {
+      "name": "Apocalyptic fire-winged warrior versus dragon",
+      "aspect_ratio": "1:1",
+      "scene_preset": "apocalyptic_warrior_and_dragon",
+      "text": "none"
+    }
+  ]
+}
